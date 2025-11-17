@@ -1,0 +1,5 @@
+# Ignore copyrighted PDF book
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron) (Z-Library).pdf
+
+# Ignore all PDFs (optional - uncomment if you want to ignore all PDFs)
+# *.pdf
