@@ -13,3 +13,13 @@ Essential Terminology
 - Predictors and Labels: In regression, the input features (e.g., mileage, age) used to make predictions are called predictors, and the predicted value (e.g., price) is the label
 
 different of Attribute between Feature: An attribute is a data type (e.g., "Mileage"), while a feature generally means an attribute plus its value (e.g., "Mileage = 15,000")
+
+day2
+
+i just get a new insgiht that write bahwa dimensior your database if you want get good on model using dimensionality reduction algoritm before we feed to another machine learning model
+
+and a simple different of machine learning and deep learning is if machine learning is the problem is quite simple and it can solve using ramndom forest, esemble methods, and deep learning is best suit for more complex problem such as image recognition, speech recognition, etc..
+
+and i have learning two model thats called supervised learning and unsupervised learning
+
+supervised learning is classified method that his data has labeled before and for unsupervised learnig is the opposite from supervised learning
