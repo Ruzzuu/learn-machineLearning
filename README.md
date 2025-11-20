@@ -44,3 +44,10 @@ in batch system learning incrementally, the workflow like this system learn from
 
 in online learning the data will train and system will give an evalution is this data good or bad before launch and learn. it is good for trading dataset cause this model evaluate first and when have a new datasets just involving evaluate system until have a good data.The algorithm loads part of the data, runs a training step on that data, and repeats the process until it has run on all of the data 
 
+### instance based learning and model based learning
+
+in machine learning beside we can train our data we have to have a model that can learning from a data that absolutely new. and on machine learning we have two example and they are intance based learning and model based learning
+
+instance based learning learn a new data with comparing the old data.
+model based learning learn a new data with give them a variable like on mathematical teory.
+
