@@ -38,6 +38,14 @@ this model combine to algoritm semi and unsupervised learning that will handle u
 
 this model work like an agent he can learning from a wrong data and will analyze when that data will work and no like get a reward a pinalty from his fault 
 
+#### ask session
+"I want to ask you about linear regression. I learned that linear regression learns from its mistakes like an agent until it gets the best result. So when the model reaches the best result, does it save that result or just leave it? Wait a minute—maybe this only applies in a single training session. Like, when we finish the project, the model is done, and if we want a different answer later, we just retrain the model, change the data engineering, or add new input features. am i correct?"
+
+and i got an answer we use if model doesn't keep learning after deployment except retrain again, fine tune it, and use for online learning such as for trading.
+
+model machine learning typically have a workflow like this
+train once, save the result, retrain again to predict a new data and if we want more good or bad result we can add more data, give a fiture, etc.. according to the needs   
+
 ### batch and online learning
 
 in batch system learning incrementally, the workflow like this system learn from data available and then get a new data that we can called a good data, and then we dont use the old data, will continue work like this in the future. we can asume it like this training, evaluating, and launching. this model can be not good for a huge dataset and for data that have to update every hour it will give a high cost to doing his task the example is like for trading
