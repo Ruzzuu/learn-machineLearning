@@ -59,3 +59,18 @@ in machine learning beside we can train our data we have to have a model that ca
 instance based learning learn a new data with comparing the old data.
 model based learning learn a new data with give them a variable like on mathematical teory.
 
+| Type                     | Has Labels? | How It Learns              | What It Saves           |
+| ------------------------ | ----------- | -------------------------- | ----------------------- |
+| Regression               | Yes         | Minimizes numerical error  | Weights                 |
+| Classification           | Yes         | Minimizes class loss       | Weights / boundaries    |
+| Clustering               | No          | Groups similar points      | Cluster centers         |
+| Reinforcement            | No          | Maximize rewards over time | Policy / value function |
+| Dimensionality Reduction | No          | Compress variance          | Projection matrix       |
+| Anomaly Detection        | Sometimes   | Learn normal patterns      | Normal profile          |
+
+#### ask session
+I want to ask you about machine learning models. Does each model have a fixed structure, or can we add features and other modifications to a model? I don’t really understand how it works. Please give me an example of the code and explain how it is used.
+
+think a machine learning like a food
+
+imagine a machine learning like hamburger breed for classification and meat for regression. we cant change that ingredient but we can add some dish (feature) like egg  or vegetables, and the way i cook to (hyperparameter) i can setting it like what i want midle cook or well done
