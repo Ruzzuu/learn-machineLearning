@@ -74,3 +74,12 @@ I want to ask you about machine learning models. Does each model have a fixed st
 think a machine learning like a food
 
 imagine a machine learning like hamburger breed for classification and meat for regression. we cant change that ingredient but we can add some dish (feature) like egg  or vegetables, and the way i cook to (hyperparameter) i can setting it like what i want midle cook or well done
+
+## prepocess data
+
+in machine learning the data that we input it very important too, not just a great model that we have but the data too. before we train our data we need to clean our data first to  upgrade our model perform if we have many so many garbage data our machine can look that data a normal case
+
+#### insight
+in machine learning when we have a data have a value 0-200 like our high body and 0-100000 like our currency, a machine more leaning to adapt with currency cause have bigger value than body high count.
+
+to handle this we have to normalitation or standaritation our data.
