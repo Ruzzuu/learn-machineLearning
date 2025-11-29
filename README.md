@@ -82,4 +82,8 @@ in machine learning the data that we input it very important too, not just a gre
 #### insight
 in machine learning when we have a data have a value 0-200 like our high body and 0-100000 like our currency, a machine more leaning to adapt with currency cause have bigger value than body high count.
 
-to handle this we have to normalitation or standaritation our data.
+to handle this we have to normalitation or standaritation our data. and we called min max scalling for normalitation and z score for normalitation
+
+- max scalling use for a data that dont have a outliners and want to keep his distribution
+- z score to balanca a data that have outliner 
+
