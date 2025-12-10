@@ -75,7 +75,7 @@ think a machine learning like a food
 
 imagine a machine learning like hamburger breed for classification and meat for regression. we cant change that ingredient but we can add some dish (feature) like egg  or vegetables, and the way i cook to (hyperparameter) i can setting it like what i want midle cook or well done
 
-## preprocess data
+## prepocess data
 
 in machine learning the data that we input it very important too, not just a great model that we have but the data too. before we train our data we need to clean our data first to  upgrade our model perform if we have many so many garbage data our machine can look that data a normal case
 
@@ -86,4 +86,10 @@ to handle this we have to normalitation or standaritation our data. and we calle
 
 - max scalling use for a data that dont have a outliners and want to keep his distribution
 - z score to balanca a data that have outliner 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
